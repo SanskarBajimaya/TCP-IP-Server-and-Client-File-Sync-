@@ -113,10 +113,11 @@
 1. **Use Case Diagram**: 
    - Actors: `User`, `Server`. 
    - Actions: `Upload`, `Download`, `Conflict Resolve`. 
-2. **Sequence Diagram**: 
-   - Client → Server: "File X modified, sending chunks." 
-3. **Class Diagram**: 
+   ![Alt text](Case_Diagram.png)
+
+2. **Class Diagram**: 
    - Classes: `FileManager`, `NetworkHandler`, `ConflictResolver`. 
+   [Alt text](Server-Client-FileWatcher_Relation.png)
  
 ---
  
