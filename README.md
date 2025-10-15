@@ -83,19 +83,7 @@
  
 ---
  
-#### **Phase 6: Security & Authentication** 
-✅ **Goal**: Prevent unauthorized access. 
-🔹 **Steps**: 
-1. **Add login (username/password)**. 
-2. **Encrypt traffic** (SSL/TLS or simple AES). 
-3. **Permissions** (read-only vs. read-write users). 
- 
-📌 **Deliverable**: 
-- Secure file transfers (no eavesdropping). 
- 
----
- 
-#### **Phase 7: Final Demo & Testing** 
+#### **Phase 6: Final Demo & Testing** 
 ✅ **Goal**: Simulate real-world usage. 
 🔹 **Steps**: 
 1. **Run 2+ clients and 1 server**. 
