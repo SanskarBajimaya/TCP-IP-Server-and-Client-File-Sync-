@@ -121,5 +121,4 @@
 2. **Detect file changes** (`watchdog`/`inotify`). 
 3. **Transfer files** (full → delta optimization). 
 4. **Resolve conflicts** (timestamp/versioning). 
-5. **Secure the system** (auth + encryption). 
-6. **Demo & refine**. 
+5. **Demo & refine**. 
