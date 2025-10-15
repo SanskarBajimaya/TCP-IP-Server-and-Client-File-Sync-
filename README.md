@@ -101,7 +101,7 @@
 1. **Use Case Diagram**: 
    - Actors: `User`, `Server`. 
    - Actions: `Upload`, `Download`, `Conflict Resolve`. 
-   ![Alt text](Case_Diagram.png)
+   ![Alt text](Block_and_case_diagram/Case_Diagram.png)
 
 2. **Class Diagram**: 
    - Classes: `FileManager`, `NetworkHandler`, `ConflictResolver`. 
