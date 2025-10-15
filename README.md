@@ -105,7 +105,7 @@
 
 2. **Class Diagram**: 
    - Classes: `FileManager`, `NetworkHandler`, `ConflictResolver`. 
-   ![Alt text](Server-Client-FileWatcher_Relation.png)
+   ![Alt text](Block_and_case_diagram/Server-Client-FileWatcher_Relation.png)
  
 ---
  
